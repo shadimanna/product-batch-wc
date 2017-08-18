@@ -1,0 +1,7 @@
+select#batch_product {
+	width: 350px;
+}
+
+textarea#batch_notes {
+	width: 25em;
+}
